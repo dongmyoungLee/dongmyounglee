@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+</div>
 
-<img src="https://img.shields.io/badge/React-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 
