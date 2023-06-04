@@ -11,10 +11,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
-<div>
-  <p>STATUS</p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmyounglee)](https://github.com/dongmyounglee/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongmyounglee)](https://github.com/dongmyounglee/github-readme-stats)
 
 
 
