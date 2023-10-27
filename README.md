@@ -15,7 +15,7 @@
 
 <div style="margin-bottom: 20px;">
   <p>INFRA</p>
-  <img src="https://img.shields.io/badge/Docker-D77310?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
