@@ -9,14 +9,14 @@
 
 <div style="margin-bottom: 20px;">
   <p>BE</p>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-B100CD?style=flat-square&logo=Kotlin&logoColor=white"/>
 </div>
 
 <div style="margin-bottom: 20px;">
   <p>APP</p>
-  <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-B100CD?style=flat-square&logo=Kotlin&logoColor=white"/>
 </div>
 
 <div style="margin-bottom: 20px;">
