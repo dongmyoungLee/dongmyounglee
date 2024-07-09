@@ -22,6 +22,7 @@
 <div style="margin-bottom: 20px;">
   <p>INFRA</p>
   <img src="https://img.shields.io/badge/Docker-007396?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKA-007396?style=flat-square&logo=CKA&logoColor=white"/>
 </div>
 
 
